@@ -1,0 +1,41 @@
+{
+    "store": "Small Box MEGA Store",
+    "address": "Down the road!",
+    "inventory": [
+        {
+            "name": "Peanut Butter",
+            "cost_per_unit": 2.09,
+            "on_hand": 7,
+            "upc": 1234,
+            "category": "food"
+        },
+        {
+            "name": "Jelly",
+            "cost_per_unit": 3.29,
+            "on_hand": 2,
+            "upc": 1235,
+            "category": "food"
+        },
+        {
+            "name": "Mushrooms",
+            "cost_per_unit": 0.99,
+            "on_hand": 0,
+            "upc": 1236,
+            "category": "trash"
+        },
+        {
+            "name": "Shoes",
+            "cost_per_unit": 45.79,
+            "on_hand": 3,
+            "upc": 4322,
+            "category": "clothes"
+        },
+        {
+            "name": "Shirts",
+            "cost_per_unit": 9.99,
+            "on_hand": 21,
+            "upc": 4323,
+            "category": "clothes"
+        }
+    ]
+}

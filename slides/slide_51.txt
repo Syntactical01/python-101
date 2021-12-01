@@ -1,0 +1,9 @@
+Links from slide 51:
+    Cheat Sheet, contains most of the stuff we talked about plus stuff we didn't
+    have time to talk about, thanks Blaise Thompson for sharing:  https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.png
+
+    Checkout all the built-in python functions you can call: https://docs.python.org/3/library/functions.html
+
+    A LeetCode a week keeps the bugs weak. In all seriousness, if you are new to programming/Python, do a *Easy* programming
+    problem every week or two. Try solving it yourself then looking at the other "Submissions" to see how
+    other people solved it (in a faster way): https://leetcode.com/problemset/all/
